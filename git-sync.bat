@@ -1,4 +1,4 @@
-:: git-sync "msg"
+:: .\git-sync.bat
 
 @echo off
 
